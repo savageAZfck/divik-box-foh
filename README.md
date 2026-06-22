@@ -21,9 +21,4 @@ Start server:
 uvicorn divikbox_app:app --reload 2. POST /proxy with JSON: { "prompt": "put any data here" } 3. If the text contains forbidden stuff, you’ll get [BLOCKED — SENSITIVE DATA LEAK FLAGGED]
 No apologies, no leaks. FOH.
  
-How to nano in:
- 
-nano divikbox_app.py
-nano divikbox_demo.py
-nano requirements.txt
-nano README.md
+
