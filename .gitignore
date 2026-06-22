@@ -1,0 +1,51 @@
+# Byte-compiled / cache / temp files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.tmp
+
+# Logs and audits
+*.log
+*.out
+*.ledger
+*.audit
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# OS crap
+*.swp
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# VSCode and IDE/settings
+.vscode/
+.idea/
+*.iml
+
+# Jupyter/Notebook
+.ipynb_checkpoints/
+
+# Python test output
+htmlcov/
+coverage.*
+.cache
+.pytest_cache/
+
+# System files
+*.bak
+*.orig
+*~
+
+# dotenv
+.env
+.env.*
